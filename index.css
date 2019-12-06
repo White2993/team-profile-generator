@@ -1,0 +1,10 @@
+#top-page-header {
+  background-color: red;
+  text-align: center;
+}
+
+.team-member-output-box {
+  background-color: blanchedalmond;
+  height: 900px;
+  border: 1px solid black;
+}
